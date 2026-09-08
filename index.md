@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Seaford Allotment Society
+description: A friendly community of growers with over 200 allotments for Seaford and Bishopstone residents.
+image: /assets/images/hero-bg.jpg
 ---
 
-
-
-
-
+<meta property="og:title" content="Seaford Allotment Society" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="A friendly community of growers with over 200 allotments for Seaford and Bishopstone residents." />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:image" content="{{ '/assets/images/hero-bg.jpg' | absolute_url }}" />
 
 <section class="hero">
 <div class="hero-img"></div><div class="hero-shade"></div>
