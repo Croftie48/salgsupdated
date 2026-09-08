@@ -18,13 +18,13 @@ description: The history and development of Seaford Allotment Society's Wilderne
     <b>From neglected corner to wildlife haven.</b> The Wilderness is an important part of the allotment site, supporting birds, foxes, native plants and the people who care for the land.
   </div>
 
-  <img class="feature-image" src="{{ '/assets/images/banner6 (1).jpg' | relative_url }}" alt="The Wilderness at Seaford Allotment Society">
+  <img class="feature-image" src="{{ '/assets/images/gate.jpg' | relative_url }}" alt="The Wilderness at Seaford Allotment Society">
 
   <div class="colour-panel green-panel">
     <h2>Background</h2>
     <p>The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".</p>
     <figure class="wilderness-photo">
-      <img src="{{ '/assets/img/gate.jpg' | relative_url }}" width="320" height="240" alt="The Wilderness area before restoration">
+      <img src="{{ '/assets/img/wilderness1.jpeg' | relative_url }}" width="320" height="240" alt="The Wilderness area before restoration">
     </figure>
     <p>The Wilderness is a forgotten, overgrown, out of control area along the boundary with Vale Road, that has its own peaceful charm supporting foxes and birds but its neglect encouraged the dumping of rubbish there by all and sundry.</p>
     <p>In 2009 the sycamores were cut down and left to rot. A band of enthusiastic ‘Wild Bunch’ volunteers cleared massive amounts of brambles and small sycamore saplings along the Vale Road boundary in autumn and winter 2014, but professional help was needed.</p>
