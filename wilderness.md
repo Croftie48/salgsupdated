@@ -51,7 +51,7 @@ description: The history and development of Seaford Allotment Society's Wilderne
     <div class="timeline-item"><span>Feb 2015</span><p>Members of the South of England Hedge Laying Society visited the site to advise on the planting of a native hedge.</p></div>
     <div class="timeline-item"><span>Mar 2015</span><p>At the SALGS AGM, approval was given for the proposed Native Hedge planting and Compost Loo project, along with funding to be sought. Volunteer Liz Davies took up the challenge of spending much time working on funding applications.</p></div>
     <div class="timeline-item"><span>May–Jul 2015</span><p>Keith Amery (Plot Supervisor) controlled the ‘Wilderness’ bindweed growth. Weed killer was used as the growth was so bad; as the area is for hedge rather than plots it was deemed a reasonable action enabling the hedge saplings to establish without major competition for light and water.</p></div>
-    <div class="timeline-item"><span>Aug 2015</span><p><strong>‘We have been awarded funding’</strong></p><p>Successful funding applications resulted in one award of £9,716 and Seaford Council Major Grants donated £2,000. The grants were to be used over the next 12 months towards the development stage of The Wilderness Project and to fund a Disabled Compost Loo installation.</p></div>
+    <div class="timeline-item"><span>Aug 2015</span><p>Successful funding applications resulted in one award of £9,716 and Seaford Council Major Grants donated £2,000. The grants were to be used over the next 12 months towards the development stage of The Wilderness Project and to fund a Disabled Compost Loo installation.</p></div>
   </div>
 
   <div class="colour-panel lime-panel">
