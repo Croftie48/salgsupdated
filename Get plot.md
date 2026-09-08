@@ -5,7 +5,7 @@ title: How To Get A Plot
 <div class="page-head warm"><div class="container"><p class="eyebrow green">Let the fun begin</p><h1>How To Get A Plot</h1><p>Thinking About an Allotment Plot?</p></div></div>
 <main class="container prose">
 <div class="callout"><b>There is currently a waiting list</b> </div>
-<img src="{{ '/assets/img/jorg-hofmeier-wfqsRJZjXP0-unsplash.jpg' | relative_url }}" alt="Growing vegetables on an allotment">
+<img src="{{ '/assets/img/bannertoms.jpg' | relative_url }}" alt="Growing vegetables on an allotment">
 <p>‘’Allotments have been in existence for hundreds of years, with evidence pointing back to Anglo-Saxon times. But the system we recognise today has its roots in the Nineteenth Century, when land was given over to the labouring poor for the provision of food growing.</p>
 <p>In 1908 the Small Holdings and Allotments Act came into force, placing a duty on local authorities to provide sufficient allotments, according to demand. However, it wasn’t until the end of the First World War that land was made available to all, primarily as a way of assisting returning service men (Land Settlement Facilities Act 1919).’’ (National Association of Allotments and Leisure Gardens)</p>
 <h2>Plot size & cost</h2>
