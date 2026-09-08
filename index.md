@@ -2,7 +2,7 @@
 layout: default
 title: Seaford Allotment Society
 description: A friendly community of growers with over 200 allotments for Seaford and Bishopstone residents.
-image: /assets/images/hero-bg.jpg
+image: /assets/images/assets/images/20260531_075106~2.jpg
 ---
 
 <meta property="og:title" content="Seaford Allotment Society" />
