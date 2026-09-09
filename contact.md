@@ -15,7 +15,7 @@ description: Contact Seaford Allotment Society.
 
 <section class="prose contact-page">
   <div class="contact-card">
-    <form action="https://formsubmit.co/contact@seafordallotment.com" method="POST">
+    <form action="https://formsubmit.co/sec.seaford.allot@gmail.com" method="POST">
       <input type="hidden" name="_subject" value="New contact message — Seaford Allotment Society">
       <input type="hidden" name="_next" value="https://croftie48.github.io/salgsupdated/contact/">
       <input type="hidden" name="_template" value="table">
